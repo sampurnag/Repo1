@@ -1,0 +1,10 @@
+ Volume in drive C is EPINHYDW0118
+ Volume Serial Number is 2425-29BD
+
+ Directory of C:\Users\Sampurna_Gadipudi\Desktop\MyProject
+
+10/21/2019  12:24 PM    <DIR>          .
+10/21/2019  12:24 PM    <DIR>          ..
+10/21/2019  12:24 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  230,129,414,144 bytes free
